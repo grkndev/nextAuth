@@ -1,0 +1,25 @@
+{
+  "name": "eauth",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@voidpkg/react-ui": "^1.2.8",
+    "autoprefixer": "10.4.14",
+    "bcryptjs": "^2.4.3",
+    "formik": "^2.4.2",
+    "mongoose": "^7.3.4",
+    "next": "13.4.9",
+    "next-auth": "^4.22.1",
+    "postcss": "8.4.25",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "tailwindcss": "3.3.2"
+  }
+}
